@@ -1,4 +1,4 @@
-[!Image](https://mcusercontent.com/27482b263eba4aa81a1145340/images/6cb7b05b-1632-47ae-9577-984073ccfa5c.jpg)
+![Image](https://mcusercontent.com/27482b263eba4aa81a1145340/images/6cb7b05b-1632-47ae-9577-984073ccfa5c.jpg)
 
 <p align="center">
 <a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
