@@ -1,4 +1,4 @@
-[!Image](https://scontent.fblr19-1.fna.fbcdn.net/v/t1.0-9/150946860_1400951793602509_8778076230027682954_o.jpg?_nc_cat=100&ccb=3&_nc_sid=730e14&_nc_ohc=tQN4dXTZ5GwAX80pKK1&_nc_ht=scontent.fblr19-1.fna&oh=56b79ab5815b896ec7100b6b82dde6d4&oe=604DF2C5)
+[!Image](https://mcusercontent.com/27482b263eba4aa81a1145340/images/6cb7b05b-1632-47ae-9577-984073ccfa5c.jpg)
 
 <p align="center">
 <a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
