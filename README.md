@@ -14,4 +14,5 @@
 <p align='center'>
 ⚡I'm Pratyush Kumar.
 </p>
+<p> I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that matches my skills. </p>
 <h1 align='center'><i>Stay awesome!</i></h1>
