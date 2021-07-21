@@ -20,14 +20,14 @@
 <code> Lets connect </code>
 
 <a href='https://www.linkedin.com/in/pratyush-kumar-b5b968189/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Raman&color=blue&style=flat-square&logo=linkedin' /> </a>
-<a href="mailto:kpratyush12345@gmail.com"><img src="https://img.shields.io/badge/-rmn5124@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_pratyush__pk_12__/"><img src="https://img.shields.io/badge/-rmnchoudhary_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Pratyush&color=blue&style=flat-square&logo=linkedin' /> </a>
+<a href="mailto:kpratyush12345@gmail.com"><img src="https://img.shields.io/badge/-kpratyush12345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_pratyush__pk_12__/"><img src="https://img.shields.io/badge/-_pratyush__pk_12__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 
 </br>
 <code> I am a 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 Enthusiast.
-I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms like 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 and **CodeChef**</code>
+I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms like 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 and <strong>CodeChef</strong> </code>
 
 </br>
 </br>
