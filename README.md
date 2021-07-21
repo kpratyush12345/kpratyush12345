@@ -39,7 +39,7 @@ I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms 
 </br>
 </br>
 ## ⚡ Technologies I use 
-<p align='center'>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -50,7 +50,7 @@ I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-</p>
+
 </br>
 </br>
 #### Most Used Languages
