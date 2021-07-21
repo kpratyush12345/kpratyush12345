@@ -53,13 +53,13 @@ I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms 
 
 </br>
 </br>
-#### Most Used Languages
 
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&theme=chartreuse-dark&layout=compact)
 
 ## Statistics 
-![Raman's github stats](https://github-readme-stats.vercel.app/api?username=kpratyush12345&theme=blue-green) ![Raman's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kpratyush12345&theme=blue-green)
+![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=kpratyush12345&theme=blue-green) ![Raman's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kpratyush12345&theme=blue-green)
 
-![Raman's Contribution chart](https://activity-graph.herokuapp.com/graph?username=kpratyush12345&theme=react-dark)
+![Pratyush's Contribution chart](https://activity-graph.herokuapp.com/graph?username=kpratyush12345&theme=react-dark)
 
 <br>
