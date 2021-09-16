@@ -51,6 +51,7 @@ I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=java)&nbsp;
 
 </br>
 </br>
