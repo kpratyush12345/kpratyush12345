@@ -81,5 +81,5 @@ I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms 
 <a href="https://www.berta.codes" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <a href="mailto:berta.codes.info@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 <br> -->
-<img src="https://github-readme-stats.vercel.app/api?username=kpratyush12345&show_icons=true&count_private=true" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&layout=compact/" width="208" height="auto"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kpratyush12345&show_icons=true&count_private=true" width="500" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&layout=compact/" width="208" height="auto"/> -->
