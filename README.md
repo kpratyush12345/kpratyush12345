@@ -1,3 +1,6 @@
+![img](https://user-images.githubusercontent.com/66811279/168189877-2cf97e9b-2828-4167-94ee-12f3863b7467.jpeg)
+
+
 <p align="center">
 <a href="https://www.facebook.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
