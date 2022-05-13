@@ -1,5 +1,3 @@
-![Image](https://mcusercontent.com/27482b263eba4aa81a1145340/images/6cb7b05b-1632-47ae-9577-984073ccfa5c.jpg)
-
 <p align="center">
 <a href="https://www.facebook.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
