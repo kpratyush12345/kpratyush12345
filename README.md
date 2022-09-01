@@ -1,76 +1,42 @@
-![img](https://user-images.githubusercontent.com/66811279/168189877-2cf97e9b-2828-4167-94ee-12f3863b7467.jpeg)
+Hi 👋 My name is Samiya Nisar
+=============================
+![Cover Pic with name 01](https://user-images.githubusercontent.com/66811279/168189877-2cf97e9b-2828-4167-94ee-12f3863b7467.jpeg)
 
+Web Developer and Data Structure Enthusiast
+-------------------------------------------
 
-<p align="center">
-<a href="https://www.facebook.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_pratyush__pk_12__/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pratyush-kumar-b5b968189/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:kpratyush12345@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCLWawchg26b5_w2YUpm38pQ"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
+I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that matches my skills.
+
+* 🌍  I'm based in Bengaluru, India
+* ✉️  You can contact me at [kpratyush12345@gmail.com](mailto:kpratyush12345@gmail.com)
+* 🤝  I'm open to collaborating on Web Development
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-⚡I'm Pratyush Kumar.
-</p>
-<p> I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that matches my skills. </p>
-<h1 align='center'><i>Stay awesome!</i></h1>
-<p align='center'>
-<code > Lets connect </code>
-</br>
-</br>
-<a href='https://www.linkedin.com/in/pratyush-kumar-b5b968189/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Pratyush&color=blue&style=flat-square&logo=linkedin' /> </a>
-<a href="mailto:kpratyush12345@gmail.com"><img src="https://img.shields.io/badge/-kpratyush12345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_pratyush__pk_12__/"><img src="https://img.shields.io/badge/-_pratyush__pk_12__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-</br>
-</br>
-<code> I am a 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 Enthusiast.
-I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms like 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 and <strong>CodeChef</strong> </code>
+### Socials
 
-</br>
-</br>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=kpratyush12345&label=Views&color=blue&style=plastic" alt="kpratyush12345" />
- </p>
-</p>  
-</br>
-</br>
+<p align="left"> <a href="https://github.com/kpratyush12345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/_pratyush__pk_12__/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kpratyush12/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## Technologies I use 
+### Badges
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)&nbsp;
+<b>My GitHub Stats</b>
 
-</br>
-</br>
+<a href="https://github.com/kpratyush12345"><img src="https://github-readme-stats.vercel.app/api?username=kpratyush12345&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pratyush Kumar's GitHub stats" /></a>
 
-<!-- <h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p> -->
+<a href="https://github.com/kpratyush12345"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kpratyush12345&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Most Used Languages
+<a href="https://github.com/kpratyush12345"><img src="https://activity-graph.herokuapp.com/graph?username=kpratyush12345&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&theme=chartreuse-dark&layout=compact)
-
-## Statistics 
-![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=kpratyush12345&theme=blue-green) ![Raman's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kpratyush12345&theme=blue-green)
-
-![Pratyush's Contribution chart](https://activity-graph.herokuapp.com/graph?username=kpratyush12345&theme=react-dark)
-
-<br>
+<a href="https://github.com/kpratyush12345" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
