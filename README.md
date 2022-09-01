@@ -1,6 +1,7 @@
 Hi 👋 My name is Pratyush Kumar
 =================================
-![Cover Pic with name 01](https://user-images.githubusercontent.com/66811279/168189877-2cf97e9b-2828-4167-94ee-12f3863b7467.jpeg)
+![Hello, my name is Pratyush  Nice to meet you](https://user-images.githubusercontent.com/66811279/187818826-f8d52c3b-8cb5-40b8-8528-25b4e52d5348.png)
+
 
 Web Developer and Data Structure Enthusiast
 -------------------------------------------
