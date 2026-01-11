@@ -127,32 +127,15 @@ If you’re interested in backend systems, cloud platforms, or building reliable
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/918103348753)
 </p>
 
-## Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/kpratyush12345">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpratyush12345&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/kpratyush12345">
-  <img src="https://streak-stats.demolab.com?user=kpratyush12345&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/kpratyush12345">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratyush12345&langs_count=10&layout=compact&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/kpratyush12345">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpratyush12345&theme=github_dark" />
-</a>
-
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kpratyush12345/kpratyush12345/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kpratyush12345/kpratyush12345/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/kpratyush12345/kpratyush12345/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
